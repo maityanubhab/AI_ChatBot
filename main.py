@@ -4,7 +4,7 @@ AI-Chatbot builded By Open AI API key
 
 import openai
 
-openai.api_key = "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"
+openai.api_key = "sk-1QdWaNxbrXNhghghhghtrfhfghghghfghhycqHQq2YihT3BlbkFJdxjWcGrhpLAEiBnghfaN"
 
 def chat_with_gpt(prompt):
     response = openai.ChatCompletion.create(
