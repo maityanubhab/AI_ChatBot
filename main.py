@@ -1,3 +1,7 @@
+""" 
+AI-Chatbot builded By Open AI API key
+"""
+
 import openai
 
 openai.api_key = "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"
